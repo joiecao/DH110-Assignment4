@@ -20,6 +20,8 @@ Her main concern is her budget. Since she is a college student, she’s very lim
 
 In this scenario, Sarah will hop on my unnamed PC building software. The first thing she sees will be a welcome page, followed by a short experience survey. She answers that she is a complete beginner, and the rest of the app/site launches. The home page will feature a blank PC with all the parts labeled. She will be able to click on any of the parts, and it will lead to a new page with more information about that part. For example, if she clicks CPU, a new page will open and a brief explanation of CPUs will appear at the top. Below, she will find various CPUs categorized into several tiers, including Casual, Creative, Gamer, Hardcore Gamer, etc. She can then find the CPU that best suits her needs. Alternatively, she can take another short survey and the system can match her with a suitable CPU. She will then repeat these steps for the rest of the PC. At the bottom of the home page, there will be a library of video tutorials for PC assembly as well as peripherals (such as mouse, keyboard, headphones, microphone) and desk and chair recommendations. These features will hopefully make learning a more gradual process. 
 
+![map1](map1.jpg)
+
 
 ## Profile 2: Ed
 ![ed](ed.jpg)
@@ -31,3 +33,5 @@ Ed is a 20-year-old full-time streamer on Twitch. He finished high school just t
 Ed, just like Sarah, is not too experienced in the world of PC building. Although he already owns a PC, it was prebuilt and he had no say in every specification inside it. He wants something crazy and huge, but he also needs it to be within his technical skill. He is a bit of a techy, but by no means experienced. He knows the names of most parts and the technical jargon associated with the products. He can tell Intel from Ryzen, and he absolutely needs an RTX 3070. 
 
 In this scenario, Ed can test the product comparison feature. He will launch the app and be greeted by a welcome screen and experience survey. Since he is intermediate in PC knowledge, the interface is much simpler. Of course, if he needs a refresher, he can easily access this information by hovering over each PC part to see what it does. He wants to shop for graphics cards first, so he clicks on that page. He sees multiple tiers of cards. He picks the tier that is appropriate for him, and sees that there are a few recommendations. He selects 2 of these recommendations and uses the product compare feature to learn more about them. Once he decides on the one that is perfect for him, he adds it to his PC part list and moves onto the next product. 
+
+![map2](map2.jpg)
