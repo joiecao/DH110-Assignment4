@@ -6,10 +6,12 @@ My PC building app/website is aimed at helping new and inexperienced users learn
 
 ## Profile 1: Sarah
 ![sarah](sarah.jpg)
-
+![sarahe](sarahe.jpg)
 
 
 ## Profile 2: Ed
 ![ed](ed.jpg)
+![ede](ede.jpg)
+
 
 ## 2 Features to Impliment 
