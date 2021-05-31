@@ -22,16 +22,3 @@ In this scenario, Sarah will hop on my unnamed PC building software. The first t
 
 ![map1](map1.jpg)
 
-
-## Profile 2: Ed
-![ed](ed.jpg)
-![ede](ede.jpg)
-
-### Scenerio 
-Ed is a 20-year-old full-time streamer on Twitch. He finished high school just two years ago, when his channel was first taking off. He decided to take the risk and fully commit to his streaming career. Luckily, this risk paid off and now he is very successful with a very active community around him. How, he’s looking up finally upgrade his PC to something professional quality and long-lasting. His needs are complicated. He wants to connect multiple monitors and his streaming gear. He also needs a fancy graphics card and CPU that can handle heavy gaming and stream it at the same time. Additionally, he wants a build he can show off. His PC is a mark of his success as well as a major business tool. It’s worth investing into, as viewers will see the improvement in the quality of his streams. 
-
-Ed, just like Sarah, is not too experienced in the world of PC building. Although he already owns a PC, it was prebuilt and he had no say in every specification inside it. He wants something crazy and huge, but he also needs it to be within his technical skill. He is a bit of a techy, but by no means experienced. He knows the names of most parts and the technical jargon associated with the products. He can tell Intel from Ryzen, and he absolutely needs an RTX 3070. 
-
-In this scenario, Ed can test the product comparison feature. He will launch the app and be greeted by a welcome screen and experience survey. Since he is intermediate in PC knowledge, the interface is much simpler. Of course, if he needs a refresher, he can easily access this information by hovering over each PC part to see what it does. He wants to shop for graphics cards first, so he clicks on that page. He sees multiple tiers of cards. He picks the tier that is appropriate for him, and sees that there are a few recommendations. He selects 2 of these recommendations and uses the product compare feature to learn more about them. Once he decides on the one that is perfect for him, he adds it to his PC part list and moves onto the next product. 
-
-![map2](map2.jpg)
